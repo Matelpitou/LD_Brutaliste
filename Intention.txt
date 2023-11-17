@@ -1,0 +1,3 @@
+L'objectif est de créer des pièces de vie qui ressemblent à une vrai maison, mais avec des illogismes comme une porte en hauteur ou une fenêtre au sol. 
+Le joueur doit avoir l'impression de reconnaitre une maison qui aurait subit d'étranges changement.
+Pour créer un sentiment opressant, les pièces sont anormalement grandes et assymétriques.
